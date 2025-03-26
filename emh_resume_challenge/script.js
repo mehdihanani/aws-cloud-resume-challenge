@@ -12,11 +12,14 @@ document.addEventListener("DOMContentLoaded", () => {
         skills: `
             <h2>Skills</h2>
             <ul>
-                <li>Cloud Architecture (AWS, Azure)</li>
-                <li>Microservices & API Design</li>
-                <li>DevOps & CI/CD Pipelines</li>
-                <li>Data Modeling & Database Design</li>
-                <li>Agile Methodologies</li>
+                <li>Architecture technologique & infrastructure : Cloud AWS, On-Premise, Hybrid.</li>
+                <li>DevOps & CI/CD : Pipelines, Terraform.</li>
+                <li>Sécurité réseaux : Firewalls, IDS/IPS, VPN, Zero Trust.</li>
+                <li>Réseaux & protocoles : TCP/IP, DNS, BGP, SD-WAN.</li>
+                <li>Gestion de projets IT : Méthodologies Agile, Scrum</li>
+                <li>Collaboration internationale (Maroc, France, Afrique, Canada) et conseil stratégique en architecture solutions.</li>
+                <li>Soft Skills : Résolution de problèmes complexes, adaptabilité interculturelle, leadership technique, veille technologique.</li>
+                <li>Systèmes distribués & microservices, avec expérience en Python pour l’automatisation.</li>
             </ul>
         `,
         experience: `
