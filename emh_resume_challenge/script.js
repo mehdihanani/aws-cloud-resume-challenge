@@ -7,7 +7,7 @@ document.addEventListener("DOMContentLoaded", () => {
     const contentData = {
         summary: `
             <h2>Summary</h2>
-            <p>Experienced Technology Architect with a proven track record in designing and implementing scalable, high-performance systems. Passionate about leveraging cutting-edge technologies to solve complex problems and drive business growth.</p>
+            <p>Conseiller en architecture technologique passionné par le monde numérique, je possède un Master d'université en sécurité réseaux et systèmes ainsi qu'une Licence en systèmes informatiques répartis. Fort de 4 ans d'expérience professionnelle et de plus de 8 ans d'implication personnelle dans le domaine, j'ai collaboré pendant 2 ans au Maroc avec des entreprises françaises sur des projets déployés au Maroc et en Afrique. Actuellement basé à Québec, je contribue à de nouvelles initiatives technologiques au Canada, alliant expertise technique et vision stratégique pour concevoir des architectures innovantes et sécurisées.</p>
         `,
         skills: `
             <h2>Skills</h2>
