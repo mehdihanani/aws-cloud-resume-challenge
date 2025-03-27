@@ -76,9 +76,19 @@ document.addEventListener("DOMContentLoaded", () => {
         education: `
             <h2>Education</h2>
             <div class="school">
-                <h3>Master's in Computer Science</h3>
-                <p>University of Casablanca - Casablanca, Morocco</p>
-                <p>Graduated: 2017</p>
+                <h3>Master d'Université Sécurité, Réseaux et Systèmes</h3>
+                <p>Ecole Nationale des Sciences Appliquées Marrakech (ENSA-M) - Marrakech, Maroc</p>
+                <p>2020 - 2022</p>
+            </div>
+            <div class="school">
+                <h3>Licence Sciences et Techniques en Systèmes Informatiques Répartis</h3>
+                <p>Faculté des Sciences et Techniques Marrakech (FSTG) - Marrakech, Maroc</p>
+                <p>2014 - 2018</p>
+            </div>
+            <div class="school">
+                <h3>Baccalauréat scientifique option sciences physiques</h3>
+                <p>Lycée ALMAGHREB ALAARABI - Marrakech, Maroc</p>
+                <p>2011 - 2014</p>
             </div>
         `,
         projects: `
