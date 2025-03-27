@@ -23,14 +23,17 @@ document.addEventListener("DOMContentLoaded", () => {
             </ul>
         `,
         experience: `
-            <h2>Experience</h2>
+            <h2>Expérience Professionnelle</h2>
             <div class="job">
-                <h3>Senior Technology Architect</h3>
-                <p>Tech Solutions Inc. - Casablanca, Morocco</p>
-                <p>Jan 2018 - Present</p>
+                <h3>Conseiller en Architecture des Technologies de l'Information</h3>
+                <p>Revenu Québec - Québec, Canada</p>
+                <p>Oct 2023 - Aujourd'hui</p>
                 <ul>
-                    <li>Designed and implemented cloud-based solutions for enterprise clients.</li>
-                    <li>Led a team of developers to deliver scalable microservices architecture.</li>
+                    <li>Conception des services technologiques et définition des processus sous-jacents supportant les lignes métiers</li>
+                    <li>Participation aux ateliers d'architecture de vision et aux comités de gouvernance IT</li>
+                    <li>Vérification du respect des normes technologiques dans les évolutions et nouveaux développements</li>
+                    <li>Contribution aux processus d'approvisionnement technologique</li>
+                    <li>Participation aux tables d'architecture pour les projets corporatifs</li>
                 </ul>
             </div>
         `,
