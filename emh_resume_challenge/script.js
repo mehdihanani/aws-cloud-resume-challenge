@@ -36,6 +36,42 @@ document.addEventListener("DOMContentLoaded", () => {
                     <li>Participation aux tables d'architecture pour les projets corporatifs</li>
                 </ul>
             </div>
+            <div class="job">
+                <h3>Spécialiste Exploitation Systèmes d'Information</h3>
+                <p>Majorel - Morocco, Maroc</p>
+                <p>Mars 2021 - Juil 2023</p>
+                <ul>
+                    <li>Gestion IT pour les activités Orange B2B/B2C, Natixis et Canal+</li>
+                    <li>Participation aux audits PCI-DSS internes et clients</li>
+                    <li>Administration de l'infrastructure technique (VLAN, équipements réseaux, plateformes virtuelles)</li>
+                    <li>Gestion Active Directory, comptes utilisateurs et solutions de sécurité (Kaspersky, Cyberark)</li>
+                    <li>Analyse de vulnérabilités, gestion des correctifs et traitement des incidents</li>
+                    <li>Environnement technique : Linux, Windows Server 2016, Pare-feux, Nexpose, Automox, VM</li>
+                </ul>
+            </div>
+            <div class="job">
+                <h3>Stage PFE en Sécurité de l'Information (Master)</h3>
+                <p>Majorel - Morocco, Maroc</p>
+                <p>Nov 2020 - Fév 2021</p>
+                <ul>
+                    <li>Réalisation d'audit technique et organisationnel selon la méthode MEHARI</li>
+                    <li>Analyse des vulnérabilités et tests d'intrusion</li>
+                    <li>Audit de l'architecture système et de la sécurité physique/réseau</li>
+                    <li>Élaboration de rapports d'audit et de recommandations</li>
+                </ul>
+            </div>
+            <div class="job">
+                <h3>Leader Sportif + Support IT</h3>
+                <p>Decathlon - Morocco, Maroc</p>
+                <p>Sep 2018 - Oct 2019</p>
+                <ul>
+                    <li>Formation des collaborateurs sur les systèmes d'information</li>
+                    <li>Gestion du parc informatique (serveurs, caisses, connectivité)</li>
+                    <li>Administration des comptes utilisateurs et procédures de sécurité</li>
+                    <li>Diagnostic et résolution des problèmes techniques</li>
+                </ul>
+            </div>
+
         `,
         education: `
             <h2>Education</h2>
