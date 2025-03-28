@@ -27,19 +27,82 @@ body {
 }
 /* petits écrans (mobile) */
 @media (max-width: 768px) {
+    body {
+        height: auto;
+        padding: 20px 0;
+        background-attachment: scroll;
+    }
+
     .resume-container {
         flex-direction: column;
+        width: 95%;
         height: auto;
-        max-height: 90vh;
+        max-height: none;
     }
-    
-    .left-section, .middle-section, .right-section {
+
+    .left-section, 
+    .middle-section, 
+    .right-section {
         flex: none;
         width: 100%;
     }
-    
+
+    .left-section {
+        padding: 20px;
+        text-align: center;
+    }
+
+    .profile-picture {
+        margin: 0 auto 20px;
+    }
+
+    .middle-section {
+        order: 3; /* Met la section milieu en bas */
+        border-right: none;
+        border-top: 1px solid #ddd;
+    }
+
     #content-display {
-        max-height: 50vh;
+        max-height: none;
+        overflow-y: visible;
+    }
+
+    .certifications {
+        padding: 10px;
+    }
+
+    .contact-info {
+        text-align: center;
+    }
+}
+
+@media (max-width: 480px) {
+    .profile-picture {
+        width: 150px;
+        height: 150px;
+    }
+
+    .contact-info p {
+        font-size: 0.85rem;
+    }
+
+    .paragraph-list li {
+        padding: 10px;
+        font-size: 0.8em;
+    }
+}
+/* Ajoutez ceci pour améliorer la lisibilité */
+@media (max-width: 768px) {
+    .job, .school, .project {
+        padding: 15px;
+        margin-bottom: 15px;
+        background-color: white;
+        border-radius: 5px;
+        box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    }
+    
+    .paragraph-list li {
+        margin: 5px 0;
     }
 }
 
